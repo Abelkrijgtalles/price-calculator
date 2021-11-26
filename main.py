@@ -28,7 +28,7 @@ for item in pricefilejson:
 if not numberfilelistitem == pricefilelistitem:
     print("Error code: 1; You can't have the \"id's\" of the number- and pricefile not the same. For more info, go to the GitHub page: https://abelr.tk/pc")
 else:
-    print("Check passed; " + numberfile + " and " + pricefile + " have the same id's")
+    print("Check passed; " + numberfile + " and " + pricefile + " have the same \"id's\"")
     inlist = 0
     for item in numberfilelistitem:
         numberfilejsonstring = numberfilejson[item]
