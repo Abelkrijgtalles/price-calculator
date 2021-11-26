@@ -5,6 +5,7 @@ A price calculator for multiple things
 This is in the *.json files
 I have 0.0567kg diamond. The price of diamond in kg is: $4500.
 Then it says: The price is: 510.3
+
 I put in number.json:
 
 ![number.json](images/numberjson.png "Logo Title Text 1")
